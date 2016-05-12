@@ -2463,8 +2463,7 @@
 		"tags": ["swift"]
 	}, {
 		"title": "View Rails Casts video on Apple TV",
-		"category": "github",
-		"description": "Watch rails casts video on Apple TV",
+		"category": "apple-tv",
 		"source": "https://github.com/spritlesoftware/railscasts-on-appletv"
 	}]
 }
